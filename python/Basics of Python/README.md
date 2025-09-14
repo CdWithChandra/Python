@@ -1,4 +1,18 @@
 # Basics of Python
 
-## If you are a beginner starting Python, here is the most comprehensive step-by-step roadmap:
-- 🐍 Get Ready Python 
+## Python for Beginners: A Comprehensive Guide
+- Step 1: Python Preparation
+- Step 2: Familiarise Yourself with “.py”
+- Step 3: Print hello Ptyhon
+
+## Step 1: Python Preparation
+Install your preferred code editor, such as Visual Studio Code or PyCharm Community Edition.
+> " For a video guide on how to install Python, please refer to the following link:[click here] (https://www.youtube.com/watch?v=Rxc6RWbY-yw)
+> " Use Anaconda if you prefer data science "
+
+## Step 2: Familiarise Yourself with “.py”
+Acquire the knowledge necessary to execute Python files (.py) and utilise the interactive shell, commonly referred to as the command line or Jupyter online platform.
+
+## Step 3: Print hello Ptyhon
+print “Hello Python” with the following code snippet: 
+> print("hello Python")
