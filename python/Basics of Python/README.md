@@ -1,3 +1,4 @@
 # Basics of Python
 
-This folder contains resources and materials related to the basics of Python programming.
+## If you are a beginner starting Python, here is the most comprehensive step-by-step roadmap:
+- 🐍 Get Ready Python 
