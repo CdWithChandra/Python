@@ -7,7 +7,7 @@
 
 ## Step 1: Python Preparation
 Install your preferred code editor, such as Visual Studio Code or PyCharm Community Edition.
-> " For a video guide on how to install Python, please refer to the following link:[click here] (https://www.youtube.com/watch?v=Rxc6RWbY-yw)
+> " For a video guide on how to install Python, please refer to the following link:(https://www.youtube.com/watch?v=Rxc6RWbY-yw)
 > " Use Anaconda if you prefer data science "
 
 ## Step 2: Familiarise Yourself with “.py”
