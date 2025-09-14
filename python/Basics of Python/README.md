@@ -1,11 +1,11 @@
 # Basics of Python
 
 ## Python for Beginners: A Comprehensive Guide
-- Step 1: Python Preparation
+- Step 1: Python Preparation (Get Python Environment ready)
 - Step 2: Familiarise Yourself with “.py”
 - Step 3: Print hello Ptyhon
 
-## Step 1: Python Preparation
+## Step 1: Python Preparation (Get Python Environment ready)
 Install your preferred code editor, such as Visual Studio Code or PyCharm Community Edition.
 > " For a video guide on how to install Python, please refer to the following link:(https://www.youtube.com/watch?v=Rxc6RWbY-yw)
 > " Use Anaconda if you prefer data science "
