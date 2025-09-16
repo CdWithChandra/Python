@@ -20,8 +20,8 @@ print “Hello Python” with the following code snippet:
 
 # Data Types
 
-> What is data type?
->  To allocate the sufficient amount of memory for storing the inputs or literals.
+> What is data type?   
+> To allocate the sufficient amount of memory for storing the inputs or literals.
 
 ## Fundamental Data Type
 
