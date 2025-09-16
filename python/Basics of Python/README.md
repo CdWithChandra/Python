@@ -18,36 +18,40 @@ print “Hello Python” with the following code snippet:
 > print("hello Python")
 
 
-# Data Types 
-> Fundamental Data type
+# Data Types
+
+> What is data type?
+>  To allocate the sufficient amount of memory for storing the inputs or literals.
+
+## Fundamental Data Type
 
 - int 
 - float 
 - bool 
 - complex 
 
-> Sequential Data type
+## Sequential Data type
 
 - str 
 - bytes 
 - bytearray
 - range 
 
-> List Data type
+## List Data type
 
 - list 
 - tuple 
 
-> Set Data type
+## Set Data type
 
 - set 
 - frozenset 
 
-> Dict Data type
+## Dict Data type
 
 - dict 
 
 
-> NoneType Data type
+## NoneType Data type
 
 - NoneType
