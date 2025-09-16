@@ -19,34 +19,40 @@ print “Hello Python” with the following code snippet:
 
 
 # Data Types 
-> Fundamental Data type 
+> Fundamental Data type
+> 
 
 - int 
 - float 
 - bool 
 - complex 
 
-> Sequential Data type 
+> Sequential Data type
+> 
 
 - str 
 - bytes 
 - bytearray
 - range 
 
-> List Data type 
+> List Data type
+> 
 
 - list 
 - tuple 
 
-> Set Data type 
+> Set Data type
+> 
 
 - set 
 - frozenset 
 
 > Dict Data type
+> 
 
 - dict 
 
 > NoneType Data type
+> 
 
 - NoneType
