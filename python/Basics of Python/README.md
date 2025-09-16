@@ -20,7 +20,6 @@ print “Hello Python” with the following code snippet:
 
 # Data Types 
 > Fundamental Data type
-> 
 
 - int 
 - float 
@@ -28,7 +27,6 @@ print “Hello Python” with the following code snippet:
 - complex 
 
 > Sequential Data type
-> 
 
 - str 
 - bytes 
@@ -36,23 +34,20 @@ print “Hello Python” with the following code snippet:
 - range 
 
 > List Data type
-> 
 
 - list 
 - tuple 
 
 > Set Data type
-> 
 
 - set 
 - frozenset 
 
 > Dict Data type
-> 
 
 - dict 
 
+
 > NoneType Data type
-> 
 
 - NoneType
