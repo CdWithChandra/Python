@@ -22,6 +22,7 @@ print “Hello Python” with the following code snippet:
 
 > What is data type?   
 > To allocate the sufficient amount of memory for storing the inputs or literals.
+> Video Guide for Data Types[https://www.youtube.com/watch?v=FMFGUH18Xhg]
 
 ## Fundamental Data Type
 
