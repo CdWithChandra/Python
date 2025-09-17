@@ -57,8 +57,3 @@ print “Hello Python” with the following code snippet:
 
 - NoneType
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
