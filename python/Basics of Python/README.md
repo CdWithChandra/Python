@@ -60,6 +60,8 @@ print “Hello Python” with the following code snippet:
 - NoneType
 
 
+## Alerts: Enhancing Identification Capabilities 
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
