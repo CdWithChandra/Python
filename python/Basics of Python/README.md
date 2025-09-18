@@ -18,7 +18,9 @@ print “Hello Python” with the following code snippet:
 > print("hello Python")
 
 
-# Data Types
+# Data Types 
+> [!IMPORTANT]
+> Python data types serve as the bedrock of coding. Neglecting them will inevitably restrict your capabilities. By mastering these data types, you gain the ability to accomplish a wide range of tasks within Python.
 
 > What is data type?   
 > To allocate the sufficient amount of memory for storing the inputs or literals.  
@@ -57,3 +59,18 @@ print “Hello Python” with the following code snippet:
 
 - NoneType
 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
