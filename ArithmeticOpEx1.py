@@ -1,0 +1,15 @@
+#Program for Demonstrating Arithmetic Operators
+#ArithmeticOpEx1.py
+a=float(input("Enter Value of a:"))
+b=float(input("Enter Value of b:"))
+print("="*50)
+print("\t\tARITHMETIC OPERATORS ")
+print("="*50)
+print("\t\tSum({},{})={}".format(a,b,a+b))
+print("\t\tSub({},{})={}".format(a,b,a-b))
+print("\t\tMul({},{})={}".format(a,b,a*b))
+print("\t\tDiv({},{})={}".format(a,b,a/b))
+print("\t\tFllorDiv({},{})={}".format(a,b,a//b))
+print("\t\tModDiv({},{})={}".format(a,b,a%b))
+print("\t\tPow({},{})={}".format(a,b,a**b))
+print("="*50)
