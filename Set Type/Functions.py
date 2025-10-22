@@ -1,0 +1,12 @@
+s=set()
+print(s,type(s))
+s.add(10)
+s.add((1,2,3))
+s.add("RS")
+print("*"*50)
+print("Set Values:",s)
+print("*"*50)
+print("Getting Each value with thier index:")
+print("*"*50)
+for index, v in enumerate(s):
+    print(index,"-->",v,"-->",type(v),"-->",type(s))

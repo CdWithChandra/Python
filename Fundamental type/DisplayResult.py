@@ -1,0 +1,32 @@
+#Python program to display result in several ways
+print("==========Only Value==========")
+a=10
+b=20
+c=a+b
+print(a)
+print(b)
+print(c)
+print("==========Ony Message==========")
+print("Hello Python")
+print("Python"+"Java")
+print("Python"+"C")
+print("==========Value & Message==========")
+print("Value of a: ",a)
+print("Value of b: ",b)
+print("Sum: ",c)
+print("==========Value, Message & Format==========")
+print("Value of a={}".format(a))
+print("Value of b={}".format(b))
+print("Sum of({},{})={}".format(a,b,c))
+print("==========Value, Message With Letter "f"==========")
+print(f"Value of a={a}")
+print(f"Value of b={b}")
+print(f"sum of c={c}")
+print("==========Value, Message With Format Specifier==========")
+print("Value of a=%d" %a)
+print("Value of b=%d" %b)
+print("Value of c=%d" %c)
+print("==========Range of Values==========")
+r=range(10,21,2)
+for v in r:
+    print(v)
