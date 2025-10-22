@@ -1,0 +1,15 @@
+#program to read two numerical values and find their product
+a=float(input("Enter FIrst value:"))
+b=float(input("Enter Second value :"))
+c=a*b
+print("-"*50)
+print("Value of a={}".format(a))
+print("value of b={}".format(b))
+print(f"product({a},{b})={c}")
+print("-"*50)
+print("Another way")
+a=float(input("Enter first value:"))
+b=float(input("Enter second value:"))
+print("Value of a={}".format(a))
+print("value of b={}".format(b))
+print(f"product of({a},{b})={a*b}")
